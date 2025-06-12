@@ -4,13 +4,13 @@
 		"logo": "images/polines-logo.png",
         "major": "Electronic Engineering Diploma",
         "year": "2022 - 2025",
-        "description": "GPA 3.83 of 4";
+        "description": "GPA 3.83 of 4",
     },
     {
         "High School": "SMAN 2 Balikpapan",
 		"logo": "images/SMA2-logo.png",
         "major": "Science",
         "year": "2019 - 2022",
-        "description": "GPA 89.9 of 100";
+        "description": "GPA 89.9 of 100",
     }
 ]
